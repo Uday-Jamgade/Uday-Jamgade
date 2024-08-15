@@ -7,7 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jamgadeuday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jamgadeuday" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/uday-jamgade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-jamgade" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/uday-jamgade-458177263/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uday-jamgade" height="30" width="40" /></a>
 <a href="https://fb.com/uday jamgade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="uday jamgade" height="30" width="40" /></a>
 <a href="https://instagram.com/_udayy__29_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_udayy__29_" height="30" width="40" /></a>
 </p>
